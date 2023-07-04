@@ -1,0 +1,30 @@
+[
+  {
+    "label": "Favourites",
+    "tagline": "Our favorite games",
+    "icon": "favorite-games.png",
+    "linktext": "View all games",
+    "url": "#favorite-games"
+  },
+  {
+    "label": "Live Casino",
+    "tagline": "Get your live casino on!",
+    "icon": "livecasino.png",
+    "linktext": "View live casino games",
+    "url": "#livecasino"
+  },
+  {
+    "label": "Table games",
+    "tagline": "Take a seat at the table",
+    "icon": "table-games.png",
+    "linktext": "View table games",
+    "url": "#tablegames"
+  },
+  {
+    "label": "New games",
+    "tagline": "New games",
+    "icon": "new-games.png",
+    "linktext": "View new games",
+    "url": "#newgames"
+  }
+]
