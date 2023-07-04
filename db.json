@@ -1,6 +1,7 @@
 {
   "tiles": [
     {
+      "id": 1,
       "label": "Favourites",
       "tagline": "Our favorite games",
       "icon": "favorite-games.png",
@@ -8,6 +9,7 @@
       "url": "#favorite-games"
     },
     {
+      "id": 2,
       "label": "Live Casino",
       "tagline": "Get your live casino on!",
       "icon": "livecasino.png",
@@ -15,6 +17,7 @@
       "url": "#livecasino"
     },
     {
+      "id": 3,
       "label": "Table games",
       "tagline": "Take a seat at the table",
       "icon": "table-games.png",
@@ -22,6 +25,7 @@
       "url": "#tablegames"
     },
     {
+      "id": 4,
       "label": "New games",
       "tagline": "New games",
       "icon": "new-games.png",
