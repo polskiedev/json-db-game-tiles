@@ -4,7 +4,7 @@
       "id": 1,
       "label": "Favourites",
       "tagline": "Our favorite games",
-      "icon": "favorite-games.png",
+      "icon": "favourites.svg",
       "linktext": "View all games",
       "url": "#favorite-games"
     },
@@ -12,7 +12,7 @@
       "id": 2,
       "label": "Live Casino",
       "tagline": "Get your live casino on!",
-      "icon": "livecasino.png",
+      "icon": "livecasino.svg",
       "linktext": "View live casino games",
       "url": "#livecasino"
     },
@@ -20,7 +20,7 @@
       "id": 3,
       "label": "Table games",
       "tagline": "Take a seat at the table",
-      "icon": "table-games.png",
+      "icon": "newgames.svg",
       "linktext": "View table games",
       "url": "#tablegames"
     },
@@ -28,7 +28,7 @@
       "id": 4,
       "label": "New games",
       "tagline": "New games",
-      "icon": "new-games.png",
+      "icon": "tablegames.svg",
       "linktext": "View new games",
       "url": "#newgames"
     }
