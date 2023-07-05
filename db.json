@@ -20,7 +20,7 @@
       "id": 3,
       "label": "Table games",
       "tagline": "Take a seat at the table",
-      "icon": "newgames.svg",
+      "icon": "tablegames.svg",
       "linktext": "View table games",
       "url": "#tablegames"
     },
@@ -28,7 +28,7 @@
       "id": 4,
       "label": "New games",
       "tagline": "New games",
-      "icon": "tablegames.svg",
+      "icon": "newgames.svg",
       "linktext": "View new games",
       "url": "#newgames"
     }
